@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.menu1{
+   position: relative ;
+   margin-top: 20px ;
+   width: 600px;
+   
+
+}
+.food{
+    padding: 30px;
+    position: relative;
+    left: 50px;
+    width: 500px;
+}
+.buy{
+    width: 200px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 25px;
+    margin: 20px 10px;
+    border:2px solid rgb(221, 29, 29);
+    
+    color: rgb(75, 146, 146);
+    cursor: pointer;
+}
+p{
+    color: #f1eded;
+}
