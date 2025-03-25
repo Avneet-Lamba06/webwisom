@@ -1,5 +1,5 @@
 # WEBWISDOM 
-
+My Super Cool Project
 
 ## Description
 Website of the restaurant with variety of cuisine.
