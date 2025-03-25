@@ -1,8 +1,7 @@
 # WEBWISDOM 
 
-
 ## Description
-Website of the restaurant with variety of cuisine.
+Website of the restaurant with variety of cuisine.Different menus to explore.
 
 ## How to Run
 1. Clone the repository:
